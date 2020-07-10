@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sketchysocks/assets/rockets/
+https://raw.githubusercontent.com/sketchysocks/assets/master/rockets/
