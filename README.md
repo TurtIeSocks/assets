@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sketchysocks/assets/master/poracle/
+https://raw.githubusercontent.com/TurtIeSocks/assets/master/poracle/
